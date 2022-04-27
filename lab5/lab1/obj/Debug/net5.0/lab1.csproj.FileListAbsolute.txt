@@ -1,0 +1,15 @@
+/Users/rmk/Projects/lab1/lab1/bin/Debug/net5.0/lab1.deps.json
+/Users/rmk/Projects/lab1/lab1/bin/Debug/net5.0/lab1.runtimeconfig.json
+/Users/rmk/Projects/lab1/lab1/bin/Debug/net5.0/lab1.runtimeconfig.dev.json
+/Users/rmk/Projects/lab1/lab1/bin/Debug/net5.0/lab1.dll
+/Users/rmk/Projects/lab1/lab1/bin/Debug/net5.0/ref/lab1.dll
+/Users/rmk/Projects/lab1/lab1/bin/Debug/net5.0/lab1.pdb
+/Users/rmk/Projects/lab1/lab1/obj/Debug/net5.0/lab1.csproj.AssemblyReference.cache
+/Users/rmk/Projects/lab1/lab1/obj/Debug/net5.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rmk/Projects/lab1/lab1/obj/Debug/net5.0/lab1.AssemblyInfoInputs.cache
+/Users/rmk/Projects/lab1/lab1/obj/Debug/net5.0/lab1.AssemblyInfo.cs
+/Users/rmk/Projects/lab1/lab1/obj/Debug/net5.0/lab1.csproj.CoreCompileInputs.cache
+/Users/rmk/Projects/lab1/lab1/obj/Debug/net5.0/lab1.dll
+/Users/rmk/Projects/lab1/lab1/obj/Debug/net5.0/ref/lab1.dll
+/Users/rmk/Projects/lab1/lab1/obj/Debug/net5.0/lab1.pdb
+/Users/rmk/Projects/lab1/lab1/obj/Debug/net5.0/lab1.genruntimeconfig.cache
