@@ -1,0 +1,15 @@
+/Users/rmk/Projects/lab7/lab7/bin/Debug/net5.0/lab7.deps.json
+/Users/rmk/Projects/lab7/lab7/bin/Debug/net5.0/lab7.runtimeconfig.json
+/Users/rmk/Projects/lab7/lab7/bin/Debug/net5.0/lab7.runtimeconfig.dev.json
+/Users/rmk/Projects/lab7/lab7/bin/Debug/net5.0/lab7.dll
+/Users/rmk/Projects/lab7/lab7/bin/Debug/net5.0/ref/lab7.dll
+/Users/rmk/Projects/lab7/lab7/bin/Debug/net5.0/lab7.pdb
+/Users/rmk/Projects/lab7/lab7/obj/Debug/net5.0/lab7.csproj.AssemblyReference.cache
+/Users/rmk/Projects/lab7/lab7/obj/Debug/net5.0/lab7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rmk/Projects/lab7/lab7/obj/Debug/net5.0/lab7.AssemblyInfoInputs.cache
+/Users/rmk/Projects/lab7/lab7/obj/Debug/net5.0/lab7.AssemblyInfo.cs
+/Users/rmk/Projects/lab7/lab7/obj/Debug/net5.0/lab7.csproj.CoreCompileInputs.cache
+/Users/rmk/Projects/lab7/lab7/obj/Debug/net5.0/lab7.dll
+/Users/rmk/Projects/lab7/lab7/obj/Debug/net5.0/ref/lab7.dll
+/Users/rmk/Projects/lab7/lab7/obj/Debug/net5.0/lab7.pdb
+/Users/rmk/Projects/lab7/lab7/obj/Debug/net5.0/lab7.genruntimeconfig.cache

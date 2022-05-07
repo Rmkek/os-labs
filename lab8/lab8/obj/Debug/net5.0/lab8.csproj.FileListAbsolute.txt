@@ -1,0 +1,15 @@
+/Users/rmk/Projects/lab8/lab8/bin/Debug/net5.0/lab8.deps.json
+/Users/rmk/Projects/lab8/lab8/bin/Debug/net5.0/lab8.runtimeconfig.json
+/Users/rmk/Projects/lab8/lab8/bin/Debug/net5.0/lab8.runtimeconfig.dev.json
+/Users/rmk/Projects/lab8/lab8/bin/Debug/net5.0/lab8.dll
+/Users/rmk/Projects/lab8/lab8/bin/Debug/net5.0/ref/lab8.dll
+/Users/rmk/Projects/lab8/lab8/bin/Debug/net5.0/lab8.pdb
+/Users/rmk/Projects/lab8/lab8/obj/Debug/net5.0/lab8.csproj.AssemblyReference.cache
+/Users/rmk/Projects/lab8/lab8/obj/Debug/net5.0/lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rmk/Projects/lab8/lab8/obj/Debug/net5.0/lab8.AssemblyInfoInputs.cache
+/Users/rmk/Projects/lab8/lab8/obj/Debug/net5.0/lab8.AssemblyInfo.cs
+/Users/rmk/Projects/lab8/lab8/obj/Debug/net5.0/lab8.csproj.CoreCompileInputs.cache
+/Users/rmk/Projects/lab8/lab8/obj/Debug/net5.0/lab8.dll
+/Users/rmk/Projects/lab8/lab8/obj/Debug/net5.0/ref/lab8.dll
+/Users/rmk/Projects/lab8/lab8/obj/Debug/net5.0/lab8.pdb
+/Users/rmk/Projects/lab8/lab8/obj/Debug/net5.0/lab8.genruntimeconfig.cache

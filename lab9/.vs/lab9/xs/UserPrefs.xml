@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{D92B3166-7AD0-4053-93EE-E14469EC8B77}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab9/EmptyClass.cs">
+    <Files>
+      <File FileName="lab9/EmptyClass.cs" Line="19" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab9" expanded="True">
+            <Node name="lab9" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>numbers</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lab9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rmk/Projects/lab9/lab9/Program.cs" relfile="lab9/Program.cs" line="77" column="1" />
+      <Breakpoint file="/Users/rmk/Projects/lab9/lab9/Program.cs" relfile="lab9/Program.cs" line="103" column="1" />
+      <Breakpoint file="/Users/rmk/Projects/lab9/lab9/Program.cs" relfile="lab9/Program.cs" line="58" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

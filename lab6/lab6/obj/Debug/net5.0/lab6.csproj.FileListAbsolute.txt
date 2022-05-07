@@ -1,0 +1,15 @@
+/Users/rmk/Projects/lab6/lab6/bin/Debug/net5.0/lab6.deps.json
+/Users/rmk/Projects/lab6/lab6/bin/Debug/net5.0/lab6.runtimeconfig.json
+/Users/rmk/Projects/lab6/lab6/bin/Debug/net5.0/lab6.runtimeconfig.dev.json
+/Users/rmk/Projects/lab6/lab6/bin/Debug/net5.0/lab6.dll
+/Users/rmk/Projects/lab6/lab6/bin/Debug/net5.0/ref/lab6.dll
+/Users/rmk/Projects/lab6/lab6/bin/Debug/net5.0/lab6.pdb
+/Users/rmk/Projects/lab6/lab6/obj/Debug/net5.0/lab6.csproj.AssemblyReference.cache
+/Users/rmk/Projects/lab6/lab6/obj/Debug/net5.0/lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rmk/Projects/lab6/lab6/obj/Debug/net5.0/lab6.AssemblyInfoInputs.cache
+/Users/rmk/Projects/lab6/lab6/obj/Debug/net5.0/lab6.AssemblyInfo.cs
+/Users/rmk/Projects/lab6/lab6/obj/Debug/net5.0/lab6.csproj.CoreCompileInputs.cache
+/Users/rmk/Projects/lab6/lab6/obj/Debug/net5.0/lab6.dll
+/Users/rmk/Projects/lab6/lab6/obj/Debug/net5.0/ref/lab6.dll
+/Users/rmk/Projects/lab6/lab6/obj/Debug/net5.0/lab6.pdb
+/Users/rmk/Projects/lab6/lab6/obj/Debug/net5.0/lab6.genruntimeconfig.cache
